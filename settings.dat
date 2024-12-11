@@ -1,0 +1,15 @@
+randSeed 123
+populationSizeN 1280
+stringSizeN 48
+probApplyCrossover 0.6
+probApplyMutation 1.0
+selectionMethod 0
+tournamentSizeK 2
+fitnessFunction 1
+terminateOnFailure 1
+failuresBeforeTermination 0
+crossoverOperator 1
+bisection 1
+bisectionThreshold 0.1
+bisectionStartingPopulation 10
+bisectionMaxGeneration 200
